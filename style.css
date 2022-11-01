@@ -1,0 +1,111 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 225px;
+}
+
+.text2 {
+position: absolute;
+top: 80px;
+}
+
+.logo {
+    padding-bottom: 15px;
+}
+
+.basket {
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    font-size: 100%;
+    
+}
+
+nav {
+    background-color: brown;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+left: 250px;
+
+}
+
+
+ul.btn__2 {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+   }
+   ul.btn__2 li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
+   }
+
+   .ps1 {
+padding: 10%;
+   }
+
+   .ps2 {
+    padding: 25%;
+}
+
+.ps3 {
+    padding: 15%;
+}
+
+.ps4 {
+    padding: 10%;
+    
+}
+
+.ps5 {
+    padding: 40%;
+    
+}
+
+.btn .btn__2{    
+    width: 100%;
+    height: 100%;
+    background: #000;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1rem;
+}
+.btn__2 a{
+    color: #00f;  
+    width: 100%;
+    background: #ccc;
+    text-decoration: none;
+    padding: 0;
+}
+.btn__2 a:hover{
+    color: #fff;
+    background: #000;
+}
+
+.images {
+display: flex;
+justify-content: center;
+}
+
+.img__3 {
+    position: absolute;
+    left: 580px;
+    bottom: 57px;
+    box-shadow: 10px 15px 25px black;
+}
+
+.img__4 {
+    position: absolute;
+    left: 600px;
+    bottom: 15px;
+    box-shadow: 10px 15px 255px black;
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+    color: black;
+}
+
+.avatar{
+    width: 500px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(red, green, blue, alpha);
+}
+
+.info p{
+    color: #86896f;
+    margin: 0;
+    font-style: ;
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: 20px;
+}
